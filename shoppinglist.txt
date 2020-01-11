@@ -1,0 +1,1 @@
+['bread', 'wine', 'tomato sauce', 'garlic', 'concentrated dark matter', 'pasta']
